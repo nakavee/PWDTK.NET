@@ -23,3 +23,11 @@ C:\Users\Ian\Downloads\PWDTK_v2.0.0.1_Source_VS2013_AnyCPU_DOTNET451\PWDTK.NET_S
 C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK_SAMPLE_GUI.exe.config
 C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_SAMPLE_GUI.exe
 C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_SAMPLE_GUI.pdb
+C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK_SAMPLE_GUI.exe
+C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK_SAMPLE_GUI.pdb
+C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK.dll
+C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK.pdb
+C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK.NET_SAMPLE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_SAMPLE_GUI.Main.resources
+C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_SAMPLE_GUI.Properties.Resources.resources
+C:\Users\Ian\Source\Repos\PWDTK.NET\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK.NET_SAMPLE_GUI.csproj.GenerateResource.Cache
