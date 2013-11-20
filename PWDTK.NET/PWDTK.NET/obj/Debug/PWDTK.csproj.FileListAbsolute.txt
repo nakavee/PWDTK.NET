@@ -1,0 +1,10 @@
+C:\Users\ub86h\documents\visual studio 2012\Projects\PWDTK.NET\PWDTK.NET\bin\Debug\PWDTK.dll
+C:\Users\ub86h\documents\visual studio 2012\Projects\PWDTK.NET\PWDTK.NET\bin\Debug\PWDTK.pdb
+C:\Users\ub86h\documents\visual studio 2012\Projects\PWDTK.NET\PWDTK.NET\obj\Debug\PWDTK.dll
+C:\Users\ub86h\documents\visual studio 2012\Projects\PWDTK.NET\PWDTK.NET\obj\Debug\PWDTK.pdb
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET\obj\Debug\PWDTK.csprojResolveAssemblyReference.cache
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK\PWDTK\bin\Debug\PWDTK.dll
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK\PWDTK\bin\Debug\PWDTK.pdb
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK\PWDTK\obj\Debug\PWDTK.dll
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK\PWDTK\obj\Debug\PWDTK.pdb
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK\PWDTK\obj\Debug\PWDTK.csprojResolveAssemblyReference.cache

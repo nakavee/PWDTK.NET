@@ -1,0 +1,11 @@
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK_NET_SAMPLE_GUI.exe.config
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK_NET_SAMPLE_GUI.exe
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK_NET_SAMPLE_GUI.pdb
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK.dll
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\bin\Debug\PWDTK.pdb
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_SIMPLE_SAMPLE_GUI.csprojResolveAssemblyReference.cache
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_NET_SAMPLE_GUI.Main.resources
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_NET_SAMPLE_GUI.Properties.Resources.resources
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_SIMPLE_SAMPLE_GUI.csproj.GenerateResource.Cache
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_NET_SAMPLE_GUI.exe
+C:\Users\ub86h\Documents\Visual Studio 2012\Projects\PWDTK.NET\PWDTK.NET_SAMPLE_GUI\obj\Debug\PWDTK_NET_SAMPLE_GUI.pdb
